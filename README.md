@@ -1,3 +1,9 @@
+# Suno Chaos – Two flavors of insanity
+
+- **suno_chaos_extreme.py** → 4 octillion combinations. Total chaos. Not for the faint of heart.
+- **suno_chaos_lite.py** → Clean, beautiful, human-friendly. Still infinitely creative.
+
+Both are 100 % free, made in Norway, and ready to blow your mind.
 # Suno Chaos: The Ultimate AI Music Prompt Generator
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-06 101254" src="https://github.com/user-attachments/assets/34ac52e4-2d58-4079-881d-ab77d55baa42" />
