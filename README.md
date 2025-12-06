@@ -1,6 +1,6 @@
 # Suno Chaos – Two flavors of insanity
 
-- **suno_chaos_extreme.py** → 4 octillion combinations. Total chaos. Not for the faint of heart.
+- **promtmachine2000.py** → 4 octillion combinations. Total chaos. Not for the faint of heart.
 - **suno_chaos_lite.py** → Clean, beautiful, human-friendly. Still infinitely creative.
 
 Both are 100 % free, made in Norway, and ready to blow your mind.
