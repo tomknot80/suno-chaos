@@ -31,3 +31,5 @@ Pull requests welcome! Add more genres, fix bugs, or share your wildest prompts.
 MIT – free to remix, just don't blame me for the earworms.
 
 Made in Norway with ❤️ and pure chaos. Star if it blows your mind!
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-06 101254" src="https://github.com/user-attachments/assets/34ac52e4-2d58-4079-881d-ab77d55baa42" />
