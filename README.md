@@ -1,6 +1,6 @@
 # Suno Chaos: The Ultimate AI Music Prompt Generator
 
-<img src="screenshot.png" alt="Screenshot of the GUI" width="800">
+<img width="1920" height="1080" alt="Screenshot 2025-12-06 101254" src="https://github.com/user-attachments/assets/34ac52e4-2d58-4079-881d-ab77d55baa42" />
 
 World's most insane prompt generator for Suno, Udio, Riffusion, and beyond. Generate **4 octillion** unique music prompts with one click. From "Rap Metal-Polka in a Tibetan Steampunk Airship" to "Yodeling Ghost Opera in a Neon Jungle" – chaos guaranteed.
 
@@ -32,4 +32,4 @@ MIT – free to remix, just don't blame me for the earworms.
 
 Made in Norway with ❤️ and pure chaos. Star if it blows your mind!
 
-<img width="1920" height="1080" alt="Screenshot 2025-12-06 101254" src="https://github.com/user-attachments/assets/34ac52e4-2d58-4079-881d-ab77d55baa42" />
+
